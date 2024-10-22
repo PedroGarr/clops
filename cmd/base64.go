@@ -25,7 +25,7 @@ var base64Cmd = &cobra.Command{
 			encode := utils.EncodeString(encodeStr)
 			cmd.Println(encode)
 		} else if decodeStr != "" {
-			decode := utils.DecodeString(encodeStr)
+			decode := utils.DecodeString(decodeStr)
 			cmd.Println(decode)
 		}
 	},
