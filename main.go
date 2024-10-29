@@ -1,10 +1,9 @@
 /*
-Copyright © 2024 NAME HERE <EMAIL ADDRESS>
-
+Pedro Garcia <pes.garr@gmail.com>
 */
 package main
 
-import "clops/cmd"
+import "github.com/PedroGarr/clops/cmd"
 
 func main() {
 	cmd.Execute()

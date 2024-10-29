@@ -1,10 +1,7 @@
-/*
-Copyright © 2024 NAME HERE <EMAIL ADDRESS>
-*/
 package cmd
 
 import (
-	"clops/utils"
+	"github.com/PedroGarr/clops/utils"
 
 	"github.com/spf13/cobra"
 )
