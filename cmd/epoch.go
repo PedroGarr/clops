@@ -6,7 +6,7 @@ package cmd
 import (
 	"fmt"
 
-	"github.com/PedroGarr/clops/utils"
+	"github.com/hotln/clops/utils"
 	"github.com/spf13/cobra"
 )
 

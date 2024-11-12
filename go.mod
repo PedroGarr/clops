@@ -1,4 +1,4 @@
-module github.com/PedroGarr/clops
+module github.com/hotln/clops
 
 go 1.23.2
 
